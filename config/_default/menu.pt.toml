@@ -1,0 +1,19 @@
+[[main]]
+  name = "Serviços"
+  pageRef = "services"
+  weight = 1
+
+[[main]]
+  name = "Projetos"
+  pageRef = "projects"
+  weight = 2
+
+[[main]]
+  name = "Relatórios"
+  pageRef = "writeups"
+  weight = 3
+
+[[main]]
+  name = "Sobre Mim"
+  pageRef = "about"
+  weight = 40

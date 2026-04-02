@@ -1,0 +1,23 @@
+disabled = false
+languageCode = "pt"
+languageName = "Português"
+contentDir = "content/pt"
+weight = 2
+title = "Enrico Moreno | Segurança Digital"
+
+[params]
+  displayName = "PT"
+  isoCode = "pt"
+  rtl = false
+  dateFormat = "2 de Janeiro de 2006"
+
+[params.author]
+  name = "Enrico Moreno"
+  email = ""
+  image = "author.jpg"
+  headline = "Pesquisador de Segurança Ofensiva | Pentest Web & Infraestrutura | eJPT®"
+  bio = ""
+  links = [
+    { github = "https://github.com/EnricoMoreno" },
+    { linkedin = "https://www.linkedin.com/in/enrico-moreno/" },
+  ]
