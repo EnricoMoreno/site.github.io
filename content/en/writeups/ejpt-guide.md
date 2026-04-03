@@ -52,6 +52,6 @@ The machines below are excellent for solidifying the concepts required in the eJ
 If you can solve the machines above without constant aid from writeups, the exam will not present great technical difficulties. The biggest challenge is usually the psychological pressure and attention to detail during the information gathering phase.
 ---
 
-### Conclusion 
+### Long story short
 
 > The **eJPT** was a great exam and experience for the start in this area that can be so deep. If you have the means to take it, I highly recommend it, even more so if you can catch it on **sale**, which makes the cost-benefit even better. It offers an **excellent base** for you to start your journey in the world of **offensive security**.

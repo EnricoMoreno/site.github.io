@@ -52,6 +52,6 @@ As máquinas abaixo são excelentes para fixar os conceitos exigidos no eJPT. Al
 Se você conseguir resolver as máquinas acima sem auxílio constante de writeups, a prova não apresentará grandes dificuldades técnicas. O maior desafio costuma ser a pressão psicológica e a atenção aos detalhes na fase de coleta de informações.
 ---
 
-### Conclusão 
+### Resumo da Ópera 
 
 > O **eJPT** foi uma prova e experiência ótima para o começo nessa área que pode ser tão profunda. Se você tiver condições para fazê-la, eu recomendo muito, ainda mais se conseguir aproveitar alguma **promoção**, o que torna o custo-benefício ainda melhor. Ela oferece uma **base excelente** para você iniciar sua jornada no mundo da **segurança ofensiva**.
