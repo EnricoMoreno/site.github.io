@@ -48,9 +48,9 @@ The machines below are excellent for solidifying the concepts required in the eJ
 | :--- | :--- |
 | **TryHackMe** | Ignite, RootMe, SimpleCTF, Startup, Blog, Anonymous, Internal, Poster, Source |
 | **HackTheBox** | Oopsie, Pennyworth, Devel, Legacy, Lame, Love, Jeeves, Hawk |
-
-If you can solve the machines above without constant aid from writeups, the exam will not present great technical difficulties. The biggest challenge is usually the psychological pressure and attention to detail during the information gathering phase.
 ---
+If you can solve the machines above without constant aid from writeups, the exam will not present great technical difficulties. The biggest challenge is usually the psychological pressure and attention to detail during the information gathering phase.
+
 
 ### Long story short
 

@@ -48,9 +48,9 @@ As máquinas abaixo são excelentes para fixar os conceitos exigidos no eJPT. Al
 | :--- | :--- |
 | **TryHackMe** | Ignite, RootMe, SimpleCTF, Startup, Blog, Anonymous, Internal, Poster, Source |
 | **HackTheBox** | Oopsie, Pennyworth, Devel, Legacy, Lame, Love, Jeeves, Hawk |
-
-Se você conseguir resolver as máquinas acima sem auxílio constante de writeups, a prova não apresentará grandes dificuldades técnicas. O maior desafio costuma ser a pressão psicológica e a atenção aos detalhes na fase de coleta de informações.
 ---
+Se você conseguir resolver as máquinas acima sem auxílio constante de writeups, a prova não apresentará grandes dificuldades técnicas. O maior desafio costuma ser a pressão psicológica e a atenção aos detalhes na fase de coleta de informações.
+
 
 ### Resumo da Ópera 
 
