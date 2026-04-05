@@ -42,12 +42,12 @@ Para ir bem na prova, é fundamental estar confortável com os seguintes pilares
 
 ### Laboratórios de Prática (CTFs)
 
-As máquinas abaixo são excelentes para fixar os conceitos exigidos no eJPT. Algumas podem exigir assinatura VIP nas plataformas quando você estiver lendo isso (mas vale a pena):
+As máquinas abaixo são excelentes para fixar os conceitos exigidos no eJPT. Algumas podem exigir assinatura VIP nas plataformas quando você estiver lendo isso (mas vale a pena). Clique no link das máquinas para acessar o write-up que fiz para elas.:
 
 | Plataforma | Máquina / Laboratório |
 | :--- | :--- |
-| **TryHackMe** | Ignite, RootMe, SimpleCTF, Startup, Blog, Anonymous, Internal, Poster, Source |
-| **HackTheBox** | Oopsie, Pennyworth, Devel, Legacy, Lame, Love, Jeeves, Hawk |
+| **TryHackMe** | [Ignite](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-ignite-easy.md), [RootMe](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-rootme-easy.md), [Startup](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-startup-easy.md), [Blog](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-blog-medium.md), [Anonymous](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-anonymous-medium.md), [Internal](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-internal-hard.md), [Poster](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-poster-easy.md), [Source](https://github.com/EnricoMoreno/ctf-writeups/blob/main/THM/thm-source-easy.md) |
+| **HackTheBox** | [Oopsie](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-oopsie-veryeasy.md), [Pennyworth](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-pennyworth-veryeasy.md), [Devel](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-devel-easy.md), [Legacy](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-legacy-easy.md), [Lame](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-lame-easy.md), [Love](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-love-easy.md), [Jeeves](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-jeeves-medium.md), [Hawk](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-hawk-medium.md) |
 ---
 Se você conseguir resolver as máquinas acima sem auxílio constante de writeups, a prova não apresentará grandes dificuldades técnicas. O maior desafio costuma ser a pressão psicológica e a atenção aos detalhes na fase de coleta de informações.
 
