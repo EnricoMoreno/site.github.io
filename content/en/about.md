@@ -15,3 +15,10 @@ My background bridges professional English instruction with high-performance tec
 
 ### Technical Goals
 Currently pursuing **AD-RTS**, and **DCPT** certifications throughout 2026 to deepen expertise in Red Teaming and Active Directory security.
+
+### Contact
+For professional inquiries, partnerships, or technical consultations:
+
+* **Email**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
+* **GitHub**: [github.com/enricomoreno](https://github.com/enricomoreno)

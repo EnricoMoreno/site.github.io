@@ -16,3 +16,10 @@ Minha experiência combina o ensino de inglês com o desenvolvimento técnico em
 
 ### Foco Técnico
 Atualmente focado em obter as certificações **AD-RTS** e **DCPT** ao longo de 2026, consolidando conhecimentos em Red Teaming e segurança de Active Directory.
+
+### Contato
+Para prospecções profissionais, parcerias ou consultas técnicas:
+
+* **E-mail**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
+* **GitHub**: [github.com/enricomoreno](https://github.com/enricomoreno)
