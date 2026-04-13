@@ -1,6 +1,7 @@
 ---
 title: "Enrico Moreno"
 layout: "profile"
+layout: "page"
 showPagination: false
 showDate: false
 showReadingTime: false
@@ -9,16 +10,20 @@ showAuthorBottom: false
 ---
 
 ### About Me
-**Cybersecurity undergraduate at UNICID** (class of 2026) and **eJPT (Junior Penetration Tester)** certified. I work as an offensive security researcher, specializing in vulnerability analysis and security tool automation.
+**Cybersecurity Researcher** focused on offensive security, vulnerability analysis, and security tooling automation. Certified **eJPT (Junior Penetration Tester)** with a solid background in low-level development (**C/C++**) and scripting (**Python/Bash**). 
 
-My background bridges professional English instruction with high-performance technical development in **C and C++**, focusing on security and infrastructure projects.
+Currently pursuing a degree in **Cybersecurity at UNICID** (Expected 2026), I bridge the gap between technical infrastructure and offensive research, leveraging bilingual proficiency to act in international environments.
 
-### Technical Goals
-Currently pursuing **AD-RTS**, and **DCPT** certifications throughout 2026 to deepen expertise in Red Teaming and Active Directory security.
+### Technical Roadmap
+Dedicated to mastering Red Teaming operations, Pentesting, and Active Directory security, currently working towards **AD-RTS** and **DCPT** certifications throughout 2026.
 
-### Contact
-For professional inquiries, partnerships, or technical consultations:
+### Contact & Security
 
 * **Email**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **PGP Public Key**: [Download Key](https://enricomoreno.com.br/pgp.txt)
 * **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
-* **GitHub**: [github.com/enricomoreno](https://github.com/enricomoreno)
+* **GitHub**: [github.com/EnricoMoreno](https://github.com/EnricoMoreno)
+
+---
+
+**Security Disclosure**: This domain implements the `security.txt` standard (RFC 9116). For vulnerability reports or security inquiries, please refer to [/.well-known/security.txt](https://enricomoreno.com.br/.well-known/security.txt).

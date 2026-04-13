@@ -1,0 +1,4 @@
+Contact: mailto:enrico@enricomoreno.com.br
+Encryption: https://enricomoreno.com.br/pgp.txt
+Preferred-Languages: en, pt
+Expires: 2027-04-13T23:59:59Z

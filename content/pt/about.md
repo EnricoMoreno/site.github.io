@@ -10,16 +10,20 @@ showAuthorBottom: false
 ---
 
 ### Sobre Mim
-Estudante de **Cibersegurança na UNICID** (conclusão em 2026) e detentor da certificação **eJPT (Junior Penetration Tester)**. Atuo como pesquisador de segurança ofensiva, com foco em análise de vulnerabilidades e automação de ferramentas de segurança.
+**Pesquisador de Cibersegurança** focado em segurança ofensiva, análise de vulnerabilidades e automação de ferramentas de segurança. Certificado **eJPT (Junior Penetration Tester)** com sólida base em desenvolvimento de baixo nível (**C/C++**) e scripting (**Python/Bash**).
 
-Minha experiência combina o ensino de inglês com o desenvolvimento técnico em linguagens de baixo nível como **C e C++**, aplicadas em projetos de infraestrutura e segurança.
+Atualmente cursando **Cibersegurança na UNICID** (Previsão de conclusão em 2026), faço a ponte entre infraestrutura técnica e pesquisa ofensiva, utilizando proficiência bilíngue para atuar em ambientes internacionais.
 
-### Foco Técnico
-Atualmente focado em obter as certificações **AD-RTS** e **DCPT** ao longo de 2026, consolidando conhecimentos em Red Teaming e segurança de Active Directory.
+### Roadmap Técnico
+Dedicado a dominar operações de Red Teaming, Pentesting e segurança em Active Directory, atualmente trabalhando rumo às certificações **AD-RTS** e **DCPT** ao longo de 2026.
 
-### Contato
-Para prospecções profissionais, parcerias ou consultas técnicas:
+### Contato & Segurança
 
-* **E-mail**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **Email**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **Chave Pública PGP**: [Download Key](https://enricomoreno.com.br/pgp.txt)
 * **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
-* **GitHub**: [github.com/enricomoreno](https://github.com/enricomoreno)
+* **GitHub**: [github.com/EnricoMoreno](https://github.com/EnricoMoreno)
+
+---
+
+**Divulgação de Segurança**: Este domínio implementa o padrão `security.txt` (RFC 9116). Para relatórios de vulnerabilidades ou questões de segurança, consulte [/.well-known/security.txt](https://enricomoreno.com.br/.well-known/security.txt).
