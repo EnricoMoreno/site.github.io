@@ -47,7 +47,7 @@ The machines below are excellent for solidifying the concepts required in the eJ
 | Platform | Machine / Lab |
 | :--- | :--- |
 | **TryHackMe** | [Ignite](/en/writeups/ignite/), [RootMe](/en/writeups/rootme/), [Startup](/en/writeups/startup/), [Blog](/en/writeups/blog/), [Anonymous](/en/writeups/anonymous/), [Internal](/en/writeups/internal/), [Poster](/en/writeups/poster/), [Source](/en/writeups/source/) |
-| **HackTheBox** | [Oopsie](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-oopsie-veryeasy.md), [Pennyworth](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-pennyworth-veryeasy.md), [Devel](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-devel-easy.md), [Legacy](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-legacy-easy.md), [Lame](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-lame-easy.md), [Love](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-love-easy.md), [Jeeves](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-jeeves-medium.md), [Hawk](https://github.com/EnricoMoreno/ctf-writeups/blob/main/HTB/htb-hawk-medium.md) |
+| **HackTheBox** | [Oopsie](/en/writeups/oopsie), [Pennyworth](/en/writeups/pennyworth), [Devel](/en/writeups/devel), [Legacy](/en/writeups/legacy), [Lame](/en/writeups/lame), [Love](/en/writeups/love), [Jeeves](/en/writeups/jeeves), [Hawk](/en/writeups/hawk) |
 ---
 If you can solve the machines above without constant aid from writeups, the exam will not present great technical difficulties. The biggest challenge is usually the psychological pressure and attention to detail during the information gathering phase.
 
