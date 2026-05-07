@@ -182,3 +182,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+
+[Author]
+  name = "Enrico Moreno"
+  image = "img/avatar.jpg"
+  headline = "Cybersecurity | Pentester"
+  bio = "Security researcher and pentester."
+  links = [
+    { linkedin = "https://linkedin.com/in/enricomoreno" },
+    { github = "https://github.com/EnricoMoreno" }
+  ]
